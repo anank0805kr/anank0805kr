@@ -1,6 +1,6 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 # 💫 About Me:
-🔭 I’m currently exploring the field of devOpS and working as full stack intern <br><br>🌱 I’m currently learning React Js<br><br>👯 I’m looking to collaborate on web projects<br><br>💬 Ask me about react js, JavaSCript, node js and Explore the field of DevOps<br><br>📫 How to reach me anand0805kr@gmail.com<br><br>
+🔭 I’m currently exploring the field of devOpS and working as full stack intern <br><br>🌱 I’m currently learning golang<br><br>👯 I’m looking to collaborate on web projects<br><br>💬 Ask me about react js, JavaSCript, node js and Explore the field of DevOps<br><br>📫 How to reach me anand0805kr@gmail.com<br><br>
 
 
 ## 🌐 Socials:
